@@ -7,4 +7,4 @@
 
 ### Tecnologias que utilizo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)](https://github.com/arthurprogpy/github-readme-stats)
+
